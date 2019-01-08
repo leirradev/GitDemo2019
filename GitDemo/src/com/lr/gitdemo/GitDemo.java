@@ -1,5 +1,7 @@
 package com.lr.gitdemo;
 
 public class GitDemo {
-
+	public static void main(String[] args ) {
+		System.out.println("Push test succeed");
+	}
 }
